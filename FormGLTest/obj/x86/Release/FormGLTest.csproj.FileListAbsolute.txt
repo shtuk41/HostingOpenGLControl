@@ -1,0 +1,3 @@
+C:\Users\u7ashtuk\Desktop\Files\HostingOpenGLControl\FormGLTest\obj\x86\Release\FormGLTest.Form1.resources
+C:\Users\u7ashtuk\Desktop\Files\HostingOpenGLControl\FormGLTest\obj\x86\Release\FormGLTest.Properties.Resources.resources
+C:\Users\u7ashtuk\Desktop\Files\HostingOpenGLControl\FormGLTest\obj\x86\Release\FormGLTest.csproj.GenerateResource.Cache

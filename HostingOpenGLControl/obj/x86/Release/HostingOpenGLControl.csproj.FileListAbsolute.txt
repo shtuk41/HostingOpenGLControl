@@ -1,0 +1,8 @@
+C:\Users\u7ashtuk\Desktop\Files\HostingOpenGLControl\HostingOpenGLControl\bin\Release\HostingOpenGLControl.exe.config
+C:\Users\u7ashtuk\Desktop\Files\HostingOpenGLControl\HostingOpenGLControl\obj\x86\Release\MainWindow.baml
+C:\Users\u7ashtuk\Desktop\Files\HostingOpenGLControl\HostingOpenGLControl\obj\x86\Release\MainWindow.g.cs
+C:\Users\u7ashtuk\Desktop\Files\HostingOpenGLControl\HostingOpenGLControl\obj\x86\Release\App.g.cs
+C:\Users\u7ashtuk\Desktop\Files\HostingOpenGLControl\HostingOpenGLControl\obj\x86\Release\HostingOpenGLControl_MarkupCompile.cache
+C:\Users\u7ashtuk\Desktop\Files\HostingOpenGLControl\HostingOpenGLControl\obj\x86\Release\HostingOpenGLControl.g.resources
+C:\Users\u7ashtuk\Desktop\Files\HostingOpenGLControl\HostingOpenGLControl\obj\x86\Release\HostingOpenGLControl.Properties.Resources.resources
+C:\Users\u7ashtuk\Desktop\Files\HostingOpenGLControl\HostingOpenGLControl\obj\x86\Release\HostingOpenGLControl.csproj.GenerateResource.Cache

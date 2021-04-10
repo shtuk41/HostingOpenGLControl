@@ -1,0 +1,33 @@
+﻿  Stdafx.cpp
+  AssemblyInfo.cpp
+c:\users\shtuk\desktop\files\hostingopenglcontrol\hostingopenglcontrol\glclasslibrary\assemblyinfo.cpp(40): warning C4947: 'System::Security::Permissions::SecurityAction::RequestMinimum': marked as obsolete
+  c:\users\shtuk\desktop\files\hostingopenglcontrol\hostingopenglcontrol\glclasslibrary\assemblyinfo.cpp(40): note: Message: 'Assembly level declarative security is obsolete and is no longer enforced by the CLR by default. See http://go.microsoft.com/fwlink/?LinkID=155570 for more information.'
+  GLClassLibrary.cpp
+c:\users\shtuk\desktop\files\hostingopenglcontrol\hostingopenglcontrol\glclasslibrary\opengl.h(342): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+  Generating Code...
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+  AssemblyInfo.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+GLClassLibrary.obj : warning LNK4049: locally defined symbol __glewBindVertexArray imported
+GLClassLibrary.obj : warning LNK4049: locally defined symbol __glewDeleteShader imported
+GLClassLibrary.obj : warning LNK4049: locally defined symbol __glewCreateProgram imported
+GLClassLibrary.obj : warning LNK4049: locally defined symbol __glewAttachShader imported
+GLClassLibrary.obj : warning LNK4049: locally defined symbol __glewLinkProgram imported
+GLClassLibrary.obj : warning LNK4049: locally defined symbol __glewGetProgramiv imported
+GLClassLibrary.obj : warning LNK4049: locally defined symbol __glewDeleteProgram imported
+GLClassLibrary.obj : warning LNK4049: locally defined symbol __glewUseProgram imported
+GLClassLibrary.obj : warning LNK4049: locally defined symbol __glewCreateShader imported
+GLClassLibrary.obj : warning LNK4049: locally defined symbol __glewShaderSource imported
+GLClassLibrary.obj : warning LNK4049: locally defined symbol __glewCompileShader imported
+GLClassLibrary.obj : warning LNK4049: locally defined symbol __glewGetShaderiv imported
+GLClassLibrary.obj : warning LNK4049: locally defined symbol __glewGenVertexArrays imported
+GLClassLibrary.obj : warning LNK4049: locally defined symbol __glewGenBuffers imported
+GLClassLibrary.obj : warning LNK4049: locally defined symbol __glewBindBuffer imported
+GLClassLibrary.obj : warning LNK4049: locally defined symbol __glewBufferData imported
+GLClassLibrary.obj : warning LNK4049: locally defined symbol __glewEnableVertexAttribArray imported
+GLClassLibrary.obj : warning LNK4049: locally defined symbol __glewVertexAttribPointer imported
+GLClassLibrary.obj : warning LNK4049: locally defined symbol __glewGetUniformLocation imported
+GLClassLibrary.obj : warning LNK4049: locally defined symbol __glewUniformMatrix4fv imported
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Users\shtuk\Desktop\Files\HostingOpenGLControl\HostingOpenGLControl\x64\Debug\vc120.pdb'; linking object as if no debug info
+  GLClassLibrary.vcxproj -> C:\Users\shtuk\Desktop\Files\HostingOpenGLControl\HostingOpenGLControl\x64\Debug\GLClassLibrary.dll
